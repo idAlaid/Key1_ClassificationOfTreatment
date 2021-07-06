@@ -1,0 +1,16 @@
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\obj\Debug\net5.0\ConsoleIMP.csprojAssemblyReference.cache
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\obj\Debug\net5.0\ConsoleIMP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\obj\Debug\net5.0\ConsoleIMP.AssemblyInfoInputs.cache
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\obj\Debug\net5.0\ConsoleIMP.AssemblyInfo.cs
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\obj\Debug\net5.0\ConsoleIMP.csproj.CoreCompileInputs.cache
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\bin\Debug\net5.0\ConsoleIMP.exe
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\bin\Debug\net5.0\ConsoleIMP.deps.json
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\bin\Debug\net5.0\ConsoleIMP.runtimeconfig.json
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\bin\Debug\net5.0\ConsoleIMP.runtimeconfig.dev.json
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\bin\Debug\net5.0\ConsoleIMP.dll
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\bin\Debug\net5.0\ref\ConsoleIMP.dll
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\bin\Debug\net5.0\ConsoleIMP.pdb
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\obj\Debug\net5.0\ConsoleIMP.dll
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\obj\Debug\net5.0\ref\ConsoleIMP.dll
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\obj\Debug\net5.0\ConsoleIMP.pdb
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsoleIMP\ConsoleIMP\obj\Debug\net5.0\ConsoleIMP.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsNet\ConsNet\bin\Debug\ConsNet.exe.config
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsNet\ConsNet\bin\Debug\ConsNet.exe
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsNet\ConsNet\bin\Debug\ConsNet.pdb
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsNet\ConsNet\obj\Debug\ConsNet.csprojAssemblyReference.cache
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsNet\ConsNet\obj\Debug\ConsNet.csproj.CoreCompileInputs.cache
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsNet\ConsNet\obj\Debug\ConsNet.exe
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsNet\ConsNet\obj\Debug\ConsNet.pdb
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsNet\ConsNet\bin\Debug\LingvoNET.dll
+D:\Menu\Work\WorkPractice\Key1_ClassificationOfTreatment\Project\ConsNet\ConsNet\obj\Debug\ConsNet.csproj.CopyComplete
